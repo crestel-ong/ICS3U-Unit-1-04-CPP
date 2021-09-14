@@ -1,5 +1,4 @@
 // Copyright (c) 2021 Crestel All rights reserved
-//
 // Created by: Crestel
 // Created on: Sep 2021
 // This program calculates the area and perimeter of a rectangle
