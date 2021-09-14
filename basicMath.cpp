@@ -5,7 +5,9 @@
 // This program calculates the area and perimeter of a rectangle
 //     with dimensions 5cm x 3cm
 
+
 #include <iostream>
+#include <math.h>       /* pow */
 
 int main() {
     std::cout << "If a rectangle has the dimensions: " << std::endl;
